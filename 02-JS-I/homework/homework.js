@@ -36,7 +36,7 @@ function suma(x, y) {
   var resultado = (x  +  y);
   return(resultado);
 }
-suma(10 , 5);
+suma(10 , 5); // 15
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
@@ -44,7 +44,7 @@ function resta(x, y) {
   var resultado = (x - y);
   return(resultado);
 }
-resta(10 , 5);
+resta(10 , 5); // 5
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
@@ -52,7 +52,7 @@ function multiplica(x, y) {
   var resultado = (x * y);
   return(resultado);
 }
-multiplica(10 , 5);
+multiplica(10 , 5); // 50
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
@@ -60,7 +60,7 @@ function divide(x, y) {
   var resultado = (x / y);
   return(resultado);
 }
-divide(10 , 5);
+divide(10 , 5); // 2
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
