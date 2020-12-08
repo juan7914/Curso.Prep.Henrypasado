@@ -124,7 +124,7 @@ De hecho, esa forma de escribir tiene un nombre particular, se llama notación n
 
 En fin, lo importante a tener en cuenta es que los operadores _son_ funciones.
 
-## Precedencia de Operadores y Asociatividad
+## -
 
 Esto parece aburrido, pero nos va a ayudar a saber cómo piensa el intérprete y bajo que reglas actua.
 
