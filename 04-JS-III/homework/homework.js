@@ -122,7 +122,7 @@ function multiplicarArgumentos() {
   return total;
 }
 
-// No modificar nada debajo de esta línea
+
 // --------------------------------
 
 module.exports = {
